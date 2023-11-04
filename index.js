@@ -31,7 +31,7 @@ uploadBtn.addEventListener("click", function() {
         order: orderValue
     });
     
-    pizzaOrder.value = ""0"";
+    pizzaOrder.value = "";
     pizzaName.value = "";
     pizzaPrice.value = "";
     pizzaDescription.value = "";
